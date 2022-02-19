@@ -77,6 +77,6 @@ python manage.py runserver
 
 #
 
-### App Preview :
---> Great thanks to Dennis Ivy for this course.
+### Great thanks to Dennis Ivy for this course:
+--> https://www.youtube.com/watch?v=PtQiiknWUcI
 
