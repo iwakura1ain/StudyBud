@@ -75,4 +75,8 @@ python manage.py runserver
 </td>
 </table>
 
+#
+
+### App Preview :
+--> Great thanks to Dennis Ivy for this course.
 
