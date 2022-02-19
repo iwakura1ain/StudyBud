@@ -4,6 +4,13 @@
 # StudyBuddy
 </div>
 
+
+#
+
+### Great thanks to Dennis Ivy for this course:
+ https://www.youtube.com/watch?v=PtQiiknWUcI
+
+
 ### Cloning the repository
 
 --> Clone the repository using the command below :
@@ -74,9 +81,4 @@ python manage.py runserver
 <img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
 </td>
 </table>
-
-#
-
-### Great thanks to Dennis Ivy for this course:
---> https://www.youtube.com/watch?v=PtQiiknWUcI
 
